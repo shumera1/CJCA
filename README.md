@@ -1,5 +1,5 @@
-# CJCA
-Hack the Box Certified Junior Cybersecurity Analyst (CJCA) certification journey.
+# CJCA (Certified Junior Cybersecurity Analyst)
+My Hack the Box CJCA certification progress.
 
 CJCA is a highly hands-on certification that assesses the candidates’ cybersecurity assessment skills. CJCA holders demonstrate foundational technical competency across both offensive and defensive cybersecurity domains. They are equipped to identify common vulnerabilities, perform basic (post-)exploitation, and recognize potential security gaps. They are also capable of conducting SIEM-assisted security monitoring, analyzing network traffic and logs, and detecting intrusions. With hands-on experience in these areas and a hybrid skill set, they can assess and report on security issues in enterprise environments.
 
