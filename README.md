@@ -20,4 +20,3 @@ CJCA exam evaluates knowledge on the following skills:
 - Log analysis
 - Intrusion detection
 - SIEM-assisted log analysis (Elastic)
-- SIEM-assisted log analysis (Elastic)
